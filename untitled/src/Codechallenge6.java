@@ -1,4 +1,4 @@
-public class Main {
+public class Codechallenge6 {
     public static void main(String[] args) {
         int choice = 1;
 
